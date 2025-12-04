@@ -33,7 +33,7 @@ std::set<std::string> wordle(
 {
     // Add your code here
 
-    std::cout << "Input file: " << in << endl << "Floating num: " << floating << endl;
+    //std::cout << "Input file: " << in << endl << "Floating num: " << floating << endl;
 
     std::set<std::string> result;
 
